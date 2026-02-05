@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "weather-server": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["C:\\Users\\koe73\\OneDrive\\Desktop\\mcp_test\\build\\index.js"]
+    }
+  }
+}
